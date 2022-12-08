@@ -1,0 +1,5 @@
+#!/bin/bash
+
+echo "Building the makeLED file"
+g++ makeLED-hw7.cpp -o makeLED-hw7
+echo "Build Completed"
